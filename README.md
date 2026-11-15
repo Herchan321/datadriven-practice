@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/prime_coral_9010), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-11-15 |
 | [Everything That Repeats](./practice/python/everything-that-repeats) | Python | Easy | 2026-11-15 |
 
 <!-- datadriven:index:end -->
